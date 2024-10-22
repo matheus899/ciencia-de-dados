@@ -9,4 +9,3 @@ async function vizualizarInformacoesGlobais() {
     $ {dados.total_pessoas_conectadas}
 
 }
-
