@@ -1,10 +1,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Genos:ital,wght@0,100..900;1,100..900&display=swap&#39;);
 
 :root{
-    --bg-color: #41B3A2;
-    --primary-color: #BDE8CA;
-    --second-color: #D7C3F1;
-    --fonte: "Nunito Sans", sans-serif;
+    --bg-color:#0051e7;
+    --primary-color: #f1f52d;
+    --second-color: #000000;
 
 body{
     background-color: var(--bg-color);
